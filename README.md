@@ -80,3 +80,5 @@ execution of this command sends a broadcast message to all the users in the conn
 The sample command that can be used in the command prompt where the client is 
 initiated:
 /quit
+# Screenshots of the working project :
+<img width="725" alt="Screenshot 2023-07-11 125033" src="https://github.com/harshabapatla/chat-server/assets/37333062/22fe92be-a8d3-4a54-b72c-e29bcfd4381b">
